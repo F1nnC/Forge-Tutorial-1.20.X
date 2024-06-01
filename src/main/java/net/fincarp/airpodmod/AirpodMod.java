@@ -29,7 +29,7 @@ public class AirpodMod {
         MinecraftForge.EVENT_BUS.register(this);
         modEventBus.addListener(this::addCreative);
     }
-
+    // Comment to check if commiting works
     private void commonSetup(final FMLCommonSetupEvent event) {
     }
 
