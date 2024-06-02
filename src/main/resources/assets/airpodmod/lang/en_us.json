@@ -2,5 +2,9 @@
   "item.airpodmod.sapphire": "Sapphire",
   "item.airpodmod.raw_sapphire": "Raw Sapphire",
 
+  "block.airpodmod.sapphire_block": "Block of Sapphire",
+  "block.airpodmod.raw_sapphire_block": "Sapphire Ore",
+
   "creativetab.brainrot_tab": "Brainrot Tab"
+
 }

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "airpodmod:sapphire"
+    }
+  },
+  "result": {
+    "item": "airpodmod:sapphire_block",
+    "count": 1
+  }
+}

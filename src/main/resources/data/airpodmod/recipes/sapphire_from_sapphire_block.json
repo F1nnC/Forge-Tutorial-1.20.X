@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "airpodmod:sapphire_block"
+    }
+  ],
+  "result": {
+    "item": "airpodmod:sapphire",
+    "count": 9
+  }
+}

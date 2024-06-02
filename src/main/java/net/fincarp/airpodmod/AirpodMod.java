@@ -1,6 +1,7 @@
 package net.fincarp.airpodmod;
 
 import com.mojang.logging.LogUtils;
+import net.fincarp.airpodmod.block.ModBlocks;
 import net.fincarp.airpodmod.item.ModCreativeModeTabs;
 import net.fincarp.airpodmod.item.ModItems;
 import net.minecraft.resources.ResourceKey;
@@ -34,6 +35,8 @@ public class AirpodMod {
         ModCreativeModeTabs.register(modEventBus);
 
         ModItems.register(modEventBus);
+
+        ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
